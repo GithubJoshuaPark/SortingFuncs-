@@ -16,9 +16,12 @@
 
 Util 클래스에 다음 정렬 알고리즘을 함수로 구현한다:
 
-- bubbleSort(int[])
-- selectionSort(int[])
-- quickSort(int[], int, int)
+- Bubble Sort 
+- Selection Sort 
+- Quick Sort
+- Java Arrays.sort 
+- Merge Sort 
+- Heap Sort 
 
 정렬된 결과를 출력한다.
 각 알고리즘의 수행 시간을 측정하여 비교한다.
